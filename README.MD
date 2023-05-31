@@ -1,5 +1,6 @@
 [![license](https://img.shields.io/github/license/wonderf/steam-code-generator)](https://github.com/wonderf/steam-code-generator/blob/master/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/wonderf/steam-code-generator)](https://github.com/wonderf/steam-code-generator)
+[![GitHub Stars](https://img.shields.io/github/stars/wonderf/steam-code-generator)](https://github.com/wonderf/steam-code-generator/stargazers)
+[![user repos](https://badgen.net/github/dependents-repo/wonderf/steam-code-generator?label=user%20repos)](https://github.com/wonderf/steam-code-generator/network/dependents)
 # Java Library for Generating Steam Two factor codes
 This library generate one time codes and confirmation keys.
 If you interested in this library, please awake me by transactions to my USDT wallet bellow. Also put Stars ⭐⭐⭐ to repository.
