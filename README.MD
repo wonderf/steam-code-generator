@@ -8,6 +8,14 @@ If you interested in this library, please awake me by transactions to my USDT wa
 <br><br>
 ![Looking for USDT for new projects](/img/USDT.JPG "USDT For new projects" )
 # Usage example
+## Dependency
+```xml
+<dependency>
+  <groupId>io.github.wonderf</groupId>
+  <artifactId>steam-code-generator</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
 ## Generate One time code
 ```java
 SteamCodeGenerator steamCodeGenerator = new SteamGuardCodeGenerator();
