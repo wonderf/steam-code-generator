@@ -3,9 +3,8 @@
 [![user repos](https://badgen.net/github/dependents-repo/wonderf/steam-code-generator?label=user%20repos)](https://github.com/wonderf/steam-code-generator/network/dependents)
 [![Visits Badge](https://badges.strrl.dev/visits/wonderf/steam-code-generator)](https://badges.strrl.dev/visits/wonderf/steam-code-generator)
 # Java Library for Generating Steam Two factor codes
-This library generate one time codes and confirmation keys.
-If you interested in this library, please awake me by transactions to my USDT wallet bellow. Also put Stars ⭐⭐⭐ to repository.
-It might open up new possibilities. 
+This library generate one time codes and confirmation keys. Don't forget put Stars ⭐⭐⭐ to repository.
+If you interested in this library, please awake me by transactions to my USDT wallet bellow.
 <br><br>
 ![Looking for USDT for new projects](/img/USDT.JPG "USDT For new projects" )
 # Usage example
